@@ -5,7 +5,7 @@ cat-condo
 Original Design Based on work by Chris Peterson Hexagon Caverns https://corokitty.wordpress.com/2014/03/30/hexagon-caverns/ <br>
 Simplified for quick production and ease of build for kids and adults @757Makerspace courtesy of design input and building with @lynloo & @beauturner<br>
 
-![alt tag](https://raw.github.com/BeauTurner/cat-condo/blob/master/CatCondoStacked.jpg)
+![alt tag](https://github.com/BeauTurner/cat-condo/blob/master/CatCondoStacked.jpg)
 
 You Will Need:
 <ul>

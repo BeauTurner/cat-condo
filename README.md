@@ -37,3 +37,4 @@ Start with the outer wood ring and your inside coraplast piece. Put the ring aro
 
 Next wrap the 8" outside coraplast layer around the structure and with two small pieces of duct tape, fasten them together. Now you can put a strip along the whole edge where the start/end of the coraplast come together. Using a hot glue gun, secure just the corners of each heaxagon point for the inside and outside ring. Repeat on the other end. Now insert some hay and your cat condo is ready for deployment outside. <br>
 
+![alt tag](https://github.com/BeauTurner/cat-condo/blob/master/MakerspaceCadetsBuild.jpg)

@@ -6,10 +6,10 @@ Original Design Based on work by Chris Peterson Hexagon Caverns https://corokitt
 Simplified for quick production and ease of build for kids and adults @757Makerspace courtesy of design input and building with @lynloo & @beauturner
 
 You Will Need:
-Razor Blade
-Tape Measure
-Duct Tape
-1/2" or thicker wood (suitable for use outside)
+Razor Blade, 
+Tape Measure, 
+Duct Tape, 
+1/2" or thicker wood (suitable for use outside), 
 Coraplast (for two pieces, 18"x48" and 18"x42")
 
 Wooden Rings:

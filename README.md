@@ -5,6 +5,11 @@ cat-condo
 Original Design Based on work by Chris Peterson Hexagon Caverns https://corokitty.wordpress.com/2014/03/30/hexagon-caverns/ <br>
 Simplified for quick production and ease of build for kids and adults @757Makerspace courtesy of design input and building with @lynloo & @beauturner<br>
 
+<h2>Design Files</h2>
+<li>cat-condo.dwg - AutoCAD 2013 compatible 2d file with layers</li>
+<li>cat-condo-v2000.dwg - AutoCAD 2000 compatible 2d file with layers for compatibility with older systems</li>
+<li>cat-condo-v2000.dxf - 2000 version Drawing Exchange Format 2d file with layers for compatibility with older systems</li>
+
 ![alt tag](https://github.com/BeauTurner/cat-condo/blob/master/CatCondoStacked.jpg)
 
 You Will Need:

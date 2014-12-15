@@ -5,11 +5,10 @@ cat-condo
 Original Design Based on work by Chris Peterson Hexagon Caverns https://corokitty.wordpress.com/2014/03/30/hexagon-caverns/ <br>
 Simplified for quick production and ease of build for kids and adults @757Makerspace courtesy of design input and building with @lynloo & @beauturner<br>
 
-You Will Need:
-<ul>
+<ul>You Will Need:
   <li>Razor Blade</li>
   <li>Tape Measure</li>
-  <li>Duct Tape/li>
+  <li>Duct Tape</li>
   <li>1/2" or thicker wood (suitable for use outside)</li>
   <li>Coraplast (for two pieces, 18"x48" and 18"x42")/li>
 </ul><br>

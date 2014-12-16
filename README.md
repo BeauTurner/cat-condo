@@ -19,6 +19,7 @@ You Will Need:
   <li>Razor Blade</li>
   <li>Tape Measure</li>
   <li>Duct Tape</li>
+  <li>Hot Glue Gun</li>
   <li>1/2" or thicker wood (suitable for use outside)</li>
   <li>Coraplast (for two pieces, 18"x48" and 18"x42")</li>
 </ul><br>
